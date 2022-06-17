@@ -1,6 +1,6 @@
-## Hello! My name is Kaylane.
+## Olá! Eu sou Kaylane.
 
-- B.Sc. Student of Computer Engineering at the Federal University of Pernambuco
+- Estudante de Engenharia da Computação na UFPE
   
 <div> 
   <a href="https://www.instagram.com/kaylanelira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></a> 
