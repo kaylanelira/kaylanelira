@@ -1,11 +1,11 @@
 ## Olá! Eu sou Kaylane.
 
-- Estudante de Engenharia da Computação na UFPE
+- Eu sou estudante de Engenharia da Computação na UFPE, e estou na busca para encontrar minha área dentro do Mercado de Tecnologia.
   
 <div> 
   <a href="https://www.instagram.com/kaylanelira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></a> 
   <a href="mailto:kaylaneglira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaylane-lira-a33075229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaylanelira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center"><br>
