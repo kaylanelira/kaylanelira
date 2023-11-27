@@ -1,5 +1,5 @@
 # Olá! Eu sou Kaylane.
-Estudo de Engenharia da Computação na UFPE.
+Sou estudante de Engenharia da Computação na UFPE.
 
 ## Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,unity,python,git&theme=dark)](https://skillicons.dev)
